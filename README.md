@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 状态：研究生在读
+- 🌱 方向：计算机视觉。当然对NLP、LLM也感兴趣，跑过一些深度估计、风格迁移、图像生成等项目，重点研究领域为表情识别、人脸识别、图像分割等
+- 📫 联系：heyujun@heyujun.com / thgpddl@163.com
+- 📚 技术博客：😄[【CSDN】](https://blog.csdn.net/qq_40243750) 😄[【PaddlePaddle AIStudio】](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/368487)
+
+
+
+
+
